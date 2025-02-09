@@ -1,0 +1,5 @@
+Section start: [[AWS Certified Solutions Architect Slides v40.pdf#page=120|AWS Certified Solutions Architect Slides v40, page 120]]
+- [[ELB Overview]]
+- [[ALB (Application Load Balancer)]]
+- [[NLB (Network Load Balancer)]]
+- [[GWLB (Gateway Load Balancer)]]

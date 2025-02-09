@@ -1,0 +1,1 @@
+ENI is AZ bound -> **can not** attach to EC2 instance of different AZ.

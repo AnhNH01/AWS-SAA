@@ -1,0 +1,1 @@
+Allow copying network traffic from your VPC for further analysis.

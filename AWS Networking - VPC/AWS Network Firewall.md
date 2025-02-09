@@ -1,0 +1,5 @@
+- Used to protect the entire VPC
+- From L3 to L7
+- Inspect virtually all connection from/to your VPC
+- Inernally use AWS Gateway Load Balancer
+- Support fine-grained controls

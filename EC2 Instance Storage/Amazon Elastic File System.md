@@ -1,0 +1,6 @@
+- Managed Network File System, can be mounted on many EC2
+- Work accross multiple AZ
+- Highly scalable, avalable, and expensive (3x gp2)
+- **Linux-AMI compatible only**
+- Pay per use (each GB)
+- Usecase: Content management, web serving, data sharing, wordpress,..

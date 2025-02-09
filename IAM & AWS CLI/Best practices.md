@@ -1,0 +1,8 @@
+- Avoid using root account directly
+- Create password policy
+- 1 physical user -> 1 AWS User
+- Use MFA
+- Audit access using IAM report tools
+- Use access key for programmatic access
+- **Never** share iam user and access key
+- Manage permissions at group level
