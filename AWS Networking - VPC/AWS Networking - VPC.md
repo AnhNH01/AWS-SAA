@@ -13,3 +13,5 @@ Section Start: [[AWS Certified Solutions Architect Slides v40.pdf#page=698|AWS C
 - [[Egress Only Internet Gateway]]
 - [[VPC Traffic Mirroring]]
 - [[Networking Cost]]
+
+Section Summary: [[AWS Certified Solutions Architect Slides v40.pdf#page=764|AWS Certified Solutions Architect Slides v40, page 764]]
