@@ -19,6 +19,9 @@
 - Up to **16 EC2** at a time
 - Must use cluster-aware file system (not XFS, EXT4,...)
 
+[[ALB (Application Load Balancer)]]
+**Note**: ALB heath check support HTTP and HTTPs
+
 [[NLB (Network Load Balancer)]]
 **Note**
 - Health check supports 3 protocols: HTTP, HTTPs, TCP. 

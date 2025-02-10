@@ -3,3 +3,8 @@ Section start: [[AWS Certified Solutions Architect Slides v40.pdf#page=120|AWS C
 - [[ALB (Application Load Balancer)]]
 - [[NLB (Network Load Balancer)]]
 - [[GWLB (Gateway Load Balancer)]]
+- [[Sticky Sessions]]
+- [[Cross-Zone Load Balancing]]
+- [[SSL Certificates]]
+- [[Connection Draning]]
+- 
